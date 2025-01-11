@@ -1,25 +1,25 @@
 # Music-Player
-Music Player
+# Music Player
 
 A simple web-based music player built with HTML, CSS, and JavaScript. This project allows users to play, pause, skip, and control the volume of their favorite songs.
 
-Features
+## Features
 
-Play/Pause music
+-Play/Pause music
 
-Skip to next/previous track
+-Skip to next/previous track
 
-Volume control
+-Volume control
 
-Display current track information
+-Display current track information
 
-Progress bar with seek functionality
+-Progress bar with seek functionality
 
 Demo
 
 
 
-Technologies Used
+## Technologies Used
 
 HTML5: Structure of the app
 
@@ -27,7 +27,7 @@ CSS3: Styling and layout
 
 JavaScript (ES6): Functionality and interactivity
 
-Installation
+## Installation
 
 Clone the repository:
 
@@ -39,7 +39,7 @@ cd music-player
 
 Open index.html in your browser to run the app.
 
-Usage
+## Usage
 
 Click the play button to start playing music.
 
@@ -63,7 +63,7 @@ music-player/
 │       └── cover.jpg
 └── README.md
 
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
@@ -71,7 +71,7 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 
 GitHub: your-username
 
