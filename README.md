@@ -31,7 +31,7 @@ JavaScript (ES6): Functionality and interactivity
 
 Clone the repository:
 
-git clone https://github.com/your-username/music-player.git
+git clone https://github.com/Sourav1Ghadai/music-player.git
 
 Navigate to the project directory:
 
