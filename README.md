@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-GitHub: your-username
+GitHub: Sourav1Ghadai
 
-Email: your-email@example.com
+Email: ghadaisourav@gmail.com
 
